@@ -20,6 +20,8 @@ A learner-driven ethical hacker, red teamer in training, and OS dreamer.
 | ⚙️ Tools | Nmap, Netcat, Wireshark, Burp, Metasploit, Gobuster |
 | 🧰 Dev | Git, GitHub, CLI, Terminal, OS Customization |
 
+![TryHackMe Rank](https://tryhackme-badges.s3.amazonaws.com/ankitchandok.svg)
+
 ## 🔗 Profiles
 
 - 🔐 TryHackMe: [ankitchandok](https://tryhackme.com/p/ankitchandok)
